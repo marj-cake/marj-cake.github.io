@@ -3,11 +3,11 @@ title:  "Black Forest"
 subtitle: "Moist Chocolate Cake"
 author: "marj"
 avatar: "img/authors/wferr.png"
-image: "cakes/black-forest.png"
+image: "cakes/black-forest.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-![](cakes/black-forest-closed-up.png)
+![](cakes/black-forest-closed-up.jpg)
 
 ### Dimension
 
