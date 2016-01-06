@@ -1,0 +1,31 @@
+---
+title:  "Cupcake"
+subtitle: "The taste of cake in a cup"
+author: "marj"
+avatar: "img/authors/wferr.png"
+image: "cakes/cupcake.png"
+date:   2015-04-24 12:12:12
+---
+
+![](cakes/cupcake-full.png)
+
+### Vanilla icing
+
+# ₱ 350.00 per dozen
+
+![](cakes/cupcake-colorful.png)
+
+### Multi-color toppings
+
+# ₱ 400.00 per dozen
+
+![](cakes/cupcake-decorated.png)
+
+### Golden Beads toppings
+
+# ₱ 450 per dozen
+
+### For orders
+
+Call or text 09333520775
+

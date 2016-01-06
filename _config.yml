@@ -1,0 +1,7 @@
+# Site settings
+title: Marjie's Cake and Pastries
+description: Delicious Home made cakes, cup cakes and pastries.
+keywords: Cake, Marjies, Cup cakes
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
